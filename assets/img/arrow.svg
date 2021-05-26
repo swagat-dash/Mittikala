@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="18.34" viewBox="0 0 16 18.34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #C57B6C;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="polygon" class="cls-1" d="M969.785,1160.83l-15,8.66v-17.32Z" transform="translate(-954.281 -1151.66)"/>
+</svg>
